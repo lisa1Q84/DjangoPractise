@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-7jzgle&a&au#sobc#)5(10jk1&5*b6+w6%_c94*zeel2pio02*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lisa-todo-app.herokuapp.com/']
+ALLOWED_HOSTS = ['lisa-todo-app.herokuapp.com']
 
 
 # Application definition
